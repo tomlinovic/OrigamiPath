@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918056208520",
+    "project_id": "rmaprojekt-origamipath",
+    "storage_bucket": "rmaprojekt-origamipath.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918056208520:android:5998e716b0cbc8ab42f73d",
+        "android_client_info": {
+          "package_name": "com.example.rmaprojekt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsaxcMpNf9PCBCdH1w7ke9uynEVifHmp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
